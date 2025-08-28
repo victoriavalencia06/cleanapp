@@ -3,7 +3,7 @@ Aplicación web desarrollada en Intellij Idea con **Java EE** y **Spring Boot**,
 
 ## 🚀 Tecnologías utilizadas
 - **Maven**
-- **Spring Boot 3+.5.5**
+- **Spring Boot 3.5.5**
 - **Java 21**   
 - **JUnit 5** para pruebas unitarias e integración  
 - **IntelliJ IDEA** (recomendado como IDE)
